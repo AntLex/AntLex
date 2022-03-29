@@ -1,4 +1,6 @@
-### Hi there 👋
+### _Hi there! 👋_
+
+##### _⚡ I am a student at Vadim Ksendzov`s QA course! ⚡_
 
 <!--
 **AntLex/AntLex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
